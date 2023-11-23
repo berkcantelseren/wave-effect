@@ -4,4 +4,4 @@
 
 #### For clip-path maker ["click"](https://bennettfeely.com/clippy/)
 
-[Wave](gif.gif)
+[Wave](https://github.com/berkcantelseren/wave-effect/blob/main/gif.gif)
